@@ -1,0 +1,71 @@
+{
+  "projectDir": "בית-קפה-אלפא-1743158027359",
+  "status": {
+    "totalComponents": 9,
+    "completedComponents": 9,
+    "failedComponents": 0,
+    "progress": 100
+  },
+  "components": [
+    {
+      "name": "HeroSection",
+      "type": "hero",
+      "status": "completed",
+      "description": "Main hero section with headline, subheadline, and call to action for the café"
+    },
+    {
+      "name": "AboutSection",
+      "type": "about",
+      "status": "completed",
+      "description": "Section highlighting the café's experience and expertise"
+    },
+    {
+      "name": "ProductsShowcase",
+      "type": "products",
+      "status": "completed",
+      "description": "Gallery showcasing the café's signature products and menu items"
+    },
+    {
+      "name": "ServicesSection",
+      "type": "services",
+      "status": "completed",
+      "description": "Section highlighting the special services offered by the café"
+    },
+    {
+      "name": "BookingSystem",
+      "type": "booking",
+      "status": "completed",
+      "description": "Interactive booking system for customers to reserve tables or services"
+    },
+    {
+      "name": "TestimonialsCarousel",
+      "type": "testimonials",
+      "status": "completed",
+      "description": "Carousel showcasing customer testimonials and reviews"
+    },
+    {
+      "name": "LocationMap",
+      "type": "map",
+      "status": "completed",
+      "description": "Interactive map showing the café's location with contact information"
+    },
+    {
+      "name": "ContactForm",
+      "type": "contact",
+      "status": "completed",
+      "description": "Contact form for customer inquiries and feedback"
+    },
+    {
+      "name": "FooterSection",
+      "type": "footer",
+      "status": "completed",
+      "description": "Footer with essential links, social media, and copyright information"
+    }
+  ],
+  "tokenUsage": {
+    "totalInputTokens": 8685,
+    "totalOutputTokens": 23012,
+    "totalTokens": 31697,
+    "requests": 9
+  }
+}
